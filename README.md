@@ -1,2 +1,2 @@
 # SifuMoveModdingTool
-A tool for modding Sify movesets.
+A tool for modding Sifu movesets.
